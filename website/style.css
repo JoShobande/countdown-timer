@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:  "montserrat"
+
+}
+
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("./images/computer-desk-keyboard-2343477.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+img{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+.white-text{
+    color: white;
+    font-size: 50px;
+    text-align: center
+    
+}
+
+#timer{
+    text-align: center;
+    padding-top: 30px;
+     
+    
+}
+
+.padding{
+    padding-left: 10px;
+    font-size: 40px;
+}
+
+footer{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    
+   
+}
+.footer{
+    font-size: 15px;
+    text-align: center;
+}
